@@ -10,8 +10,12 @@ class login{
     void otp(){
 
     }   
-    
+
     void  sendemail(){
         System.out.println("sms feature is added");
+    }
+
+    void printdata(){
+        
     }
 }
